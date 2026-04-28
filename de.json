@@ -4137,4 +4137,5 @@
     "Customer data + AI": "Kundendaten & KI-Übergabe",
     "Collect customer data such as Name and Email and then pass conversation to AI": "Erfasst initial Kundendaten wie Name sowie E-Mail-Adresse und übergibt den Dialog anschließend proaktiv an die KI zur weiteren Bearbeitung.",
     "Email is not valid":"Die E-Mail-Adresse ist ungültig",
+    "CSV file must include at least one of the following fields: name, email, or phone. Additional fields are optional. This file should be in CSV format, using either commas or semicolons as separators, and encoded in UTF-8. Please consult the template CSV file for guidance.":"Die CSV-Datei muss mindestens eines der folgenden Felder enthalten: Name, Email oder Telefon. Weitere Felder sind optional. Die Datei muss im CSV-Format vorliegen, wahlweise mit Komma oder Semikolon als Trennzeichen, und in UTF-8 kodiert sein. Bitte nutzen Sie die CSV-Vorlage zur Orientierung.",
 }

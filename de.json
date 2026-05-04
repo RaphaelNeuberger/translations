@@ -3900,13 +3900,8 @@
     "Re-opened chats": "Wiedereröffnete Chats",
     "Messages in": "Nachrichten in",
     "Messages out": "Nachrichten ausgehen",
-<<<<<<< HEAD
     "FRT": "Erstreaktionszeit",
     "TTR": "Lösungsdauer",
-=======
-    "FRT": "Erste Reaktionszeit",
-    "TTR": "Zeit bis zur Lösung",
->>>>>>> c18aaa3d83bf6270760f2fe9a5d7c032b05f73e8
     "By channel": "Nach Kanal",
     "By agent": "Durch Agenten",
     "Total chats assigned:": "Anzahl der zugewiesenen Chats:",
@@ -3935,7 +3930,7 @@
     "Free SSL certificates are only valid for three months, so you’ll need to renew them every quarter.": "Kostenlose SSL-Zertifikate sind nur drei Monate gültig, daher müssen Sie sie vierteljährlich erneuern.",
     "Wildcard SSL certificates require DNS verification, so they cannot be issued automatically.": "Wildcard-SSL-Zertifikate erfordern eine DNS-Verifizierung und können daher nicht automatisch ausgestellt werden.",
     "It will be processed in a hour.": "Die Bearbeitung dauert eine Stunde.",
-    "Wildcard domain": "Platzhalter‑Domain",
+    "Wildcard domain": "Domain-Platzhalter",
     "We are searching for the following record:": "Wir suchen folgenden Datensatz:",
     "This domain requires updating SSL certificate manually every 90 days. Click for more details.": "Für diese Domain muss das SSL-Zertifikat alle 90 Tage manuell aktualisiert werden. Klicken Sie hier für weitere Informationen.",
     "We are only responsible for providing the technical components of the app. The other elements, such as the app listing page details, app logo, and screenshots, are your responsibility.": "Wir sind lediglich für die Bereitstellung der technischen Komponenten der App verantwortlich. Die übrigen Elemente, wie beispielsweise die Details auf der App-Eintragsseite, das App-Logo und Screenshots, liegen in Ihrer Verantwortung.",
@@ -4093,10 +4088,6 @@
     "New chats received during the specified time period": "Neue Chats im angegebenen Zeitraum.",
     "Chats marked as resolved during the specified time period": "Als erledigt markierte Chats im angegebenen Zeitraum.",
     "Chats marked as re-opened during the specified time period": "Wiedereröffnete Chats im angegebenen Zeitraum.",
-<<<<<<< HEAD
-=======
-    "Total number of messages from customers": "Gesamtzahl der Kundennachrichten.",
->>>>>>> c18aaa3d83bf6270760f2fe9a5d7c032b05f73e8
     "Total messages from agents": "Gesamtzahl der Agentennachrichten.",
     "First Response Time - this is the average time elapsed from the creation of the chat until the first response from the agent": "Erstbeantwortungszeit – Dies ist die durchschnittliche Zeitspanne von der Chat-Erstellung bis zur ersten Antwort durch einen Agenten.",
     "Time To Resolve - this is the average time from the creation of the chat or from the last time the chat was re-opened until the agent marked the chat as resolved": "Lösungsdauer – Dies ist die durchschnittliche Zeitspanne von der Erstellung oder letzten Wiedereröffnung des Chats bis zur Markierung als erledigt durch den Agenten.",
@@ -4122,11 +4113,6 @@
     "Withdraw": "Auszahlen",
     "Withdrawal_Error": "Guthaben nicht ausreichend. Der Mindestbetrag für eine Auszahlung beträgt 50 $.",
     "Invoice number, client name, email": "Rechnungsnummer, Kundenname, E-Mail",
-<<<<<<< HEAD
-=======
-    "Customer data + AI": "Kundendaten & KI-Übergabe",
-    "Collect customer data such as Name and Email and then pass conversation to AI": "Erfasst initial Kundendaten wie Name sowie E-Mail-Adresse und übergibt den Dialog anschließend proaktiv an die KI zur weiteren Bearbeitung.",
->>>>>>> c18aaa3d83bf6270760f2fe9a5d7c032b05f73e8
     "Ask customer data and ticket details to create a ticket": "Die KI erfasst proaktiv Kundendaten sowie Details zum Anliegen, um automatisch einen qualifizierten Support-Vorgang im System zu generieren.",
     "Read mobile app documentation": "Bitte lesen Sie unsere Dokumentation zum Build-Prozess der mobilen App",
     "I agree with NDA rules": "Ich stimme den Vertraulichkeitsvereinbarungen (NDA) zu",
@@ -4138,26 +4124,15 @@
     "Minimum payout is $100": "Mindestauszahlungsbetrag: 100 $.",
     "Your referral link": "Ihr Empfehlungs-Link:",
     "Your referred members": "Ihre geworbenen Kontakte",
-<<<<<<< HEAD
-=======
-    "Name": "Name",
-    "Email": "E-Mail",
->>>>>>> c18aaa3d83bf6270760f2fe9a5d7c032b05f73e8
     "Sign up date": "Registrierungsdatum",
     "Total value": "Umsatz",
     "Rows per page": "Zeilen pro Seite",
     "Simple AI": "KI-Direktantwort",
     "Make AI reply to all incoming messages": "KI antwortet automatisch auf alle eingehenden Nachrichten.",
-<<<<<<< HEAD
-=======
-    "Create a ticket": "Support-Ticket erstellen",
-    "Ask customer data and ticket details to create a ticket": "KI erfragt Kundendaten und spezifische Details, um automatisch ein Ticket im System zu eröffnen.",
->>>>>>> c18aaa3d83bf6270760f2fe9a5d7c032b05f73e8
     "AI with handover to agent": "KI mit Live-Agent-Übergabe",
     "AI_Handover_Description": "Die KI übernimmt die Kommunikation für alle eingehenden Nachrichten. Fordert ein Kunde einen menschlichen Mitarbeiter an, setzt die KI vorausschauend eine Benachrichtigung an das Team ab. Erfolgt innerhalb von 30 Sekunden keine Reaktion durch einen Agenten, erfragt die KI automatisch die E-Mail-Adresse für die spätere Kontaktaufnahme.",
     "Customer data + AI": "Kundendaten & KI-Übergabe",
     "Collect customer data such as Name and Email and then pass conversation to AI": "Erfasst initial Kundendaten wie Name sowie E-Mail-Adresse und übergibt den Dialog anschließend proaktiv an die KI zur weiteren Bearbeitung.",
-<<<<<<< HEAD
     "Assigned": "Zugewiesen",
     "Re-opened": "Wiedereröffnet",
     "Opened": "Offen",
@@ -4288,6 +4263,4 @@
     "Large": "Groß",
     "Medium": "Mittel",
     "Small": "Klein"
-=======
->>>>>>> c18aaa3d83bf6270760f2fe9a5d7c032b05f73e8
 }
